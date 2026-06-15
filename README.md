@@ -1,18 +1,22 @@
-## Getting Started
+# Práctica:  Ejercicios de recursividad 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Datos del Estudiante
+- **Nombre:** Miguel Maza
+- **Curso:** Computacion grupo 1
+- **Fecha:** 15/6/2026
 
-## Folder Structure
+---
+## 1. Ejercicio 1 
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Fecha:** 15/6/2026
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Descripción:** Se diseñaron diferentes ejercicios aplicando la recursividad para entender la recurdividad.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Ejercicio1**
 
-## Dependency Management
+![alt text](src/asset/image.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Ejercicio2**
+
+![alt text](src/asset/image2.png)
